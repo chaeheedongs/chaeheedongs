@@ -17,6 +17,7 @@
 ---
 <!-- icon -->
 <!-- https://simpleicons.org/ -->
+<!-- https://github.com/Ileriayo/markdown-badges#markdown-badges -->
 <div style="display:flex; flex-direction:row;"> 
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=black"> 
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=black"> 
@@ -35,6 +36,7 @@
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=black"> 
     <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=black"> 
     <img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=black"> 
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=black"> 
     <br> 
     <!-- DataBase -->
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=black"> 
