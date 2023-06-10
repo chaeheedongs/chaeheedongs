@@ -18,6 +18,7 @@
     <br> 
     <!-- Backend -->
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=black"> 
+    <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=black"> 
     <img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=black"> 
     <br> 
     <!-- DataBase -->
