@@ -18,6 +18,9 @@
 <!-- icon -->
 <!-- https://simpleicons.org/ -->
 <div style="display:flex; flex-direction:row;"> 
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=black"> 
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=black"> 
+    <br> 
     <!-- Frontend -->
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
@@ -39,6 +42,4 @@
     <img src="https://img.shields.io/badge/rocky-10B981?style=flat-square&logo=rockylinux&logoColor=black">
     <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=black">
     <br>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=black">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=black">
 </div>
