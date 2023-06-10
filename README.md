@@ -4,7 +4,7 @@
 
 <!-- banner -->
 <!-- https://github.com/kyechan99/capsule-render -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=79E0EE&fontColor=FBFFDC&height=200&section=header&text=Developer&fontSize=90&desc=chaeheedongs&descAlign=68&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=79E0EE&fontColor=FBFFDC&height=300&section=header&text=Developer&fontSize=50&fontAlignY=30&desc=chaeheedongs&descAlign=60&descAlignY=45&rotate=19)
 
 <br>
 
