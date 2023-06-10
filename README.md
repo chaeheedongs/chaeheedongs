@@ -21,6 +21,11 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=black"> 
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=black"> 
     <br> 
+    <!-- Atlassian -->
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=black"> 
+    <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=black"> 
+    <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=black"> 
+    <br> 
     <!-- Frontend -->
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
