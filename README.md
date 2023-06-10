@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
     <br> 
     <!-- Backend -->
-    <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=java&logoColor=black"> 
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=black">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=black"> 
     <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=black"> 
     <img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=black"> 
