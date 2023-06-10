@@ -6,6 +6,12 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=79E0EE&fontColor=FBFFDC&height=200&section=header&text=Developer&fontSize=90&desc=chaeheedongs&descAlign=68&descAlignY=80)
 
+<br>
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeheedongs&langs_count=3&show_icons=true&theme=tokyonight)
+
+<br>
 
 ### Skills
 ---
@@ -17,6 +23,7 @@
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
     <br> 
     <!-- Backend -->
+    <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=java&logoColor=black"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=black"> 
     <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=black"> 
     <img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=black"> 
@@ -31,5 +38,4 @@
     <img src="https://img.shields.io/badge/rocky-10B981?style=flat-squar&logo=rockylinux&logoColor=black">
     <img src="https://img.shields.io/badge/docker-2496ED?style=flat-squar&logo=docker&logoColor=black">
     <br>
-</div><br>
 </div>
