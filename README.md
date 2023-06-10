@@ -9,6 +9,11 @@
 <br>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=chaeheedongs&theme=vue&show_icons=true)
+
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeheedongs&langs_count=3&show_icons=true&theme=dark)
 
 <br>
