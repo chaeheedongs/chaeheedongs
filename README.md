@@ -29,13 +29,16 @@
     <img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=black"> 
     <br> 
     <!-- DataBase -->
-    <img src="https://img.shields.io/badge/oracle-F80000?style=flat-squar&logo=oracle&logoColor=black"> 
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-squar&logo=mysql&logoColor=black"> 
+    <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=black"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=black"> 
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=black">
     <br> 
     <!-- OS -->
-    <img src="https://img.shields.io/badge/linux-FCC624?style=flat-squar&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-squar&logo=ubuntu&logoColor=black">
-    <img src="https://img.shields.io/badge/rocky-10B981?style=flat-squar&logo=rockylinux&logoColor=black">
-    <img src="https://img.shields.io/badge/docker-2496ED?style=flat-squar&logo=docker&logoColor=black">
+    <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=black">
+    <img src="https://img.shields.io/badge/rocky-10B981?style=flat-square&logo=rockylinux&logoColor=black">
+    <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=black">
     <br>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=black">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=black">
 </div>
