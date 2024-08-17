@@ -44,7 +44,6 @@
     <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=black"> 
     <br> 
     <!-- DataBase -->
-    
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=black"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=black"> 
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=black">
@@ -57,6 +56,6 @@
     <br>
 </div>
 
-<br/><br/>
+---
 
 [목차 바로가기](https://github.com/chaeheedongs/_index)
